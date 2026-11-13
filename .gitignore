@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+scratch/
+pruned/
+tools/hfrange.py
+tools/formats.py
+*.safetensors

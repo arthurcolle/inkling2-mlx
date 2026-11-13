@@ -1,0 +1,8 @@
+inkling2-mlx
+Copyright 2026 the inkling2-mlx authors
+
+The model architecture in this package is a port to MLX of the Inkling 2 implementation in
+Hugging Face Transformers (src/transformers/models/inkling2), Copyright 2026 The HuggingFace Team,
+licensed under the Apache License, Version 2.0.
+
+Inkling 2 is a model by Thinking Machines Lab. Its weights are distributed separately under their own terms.
